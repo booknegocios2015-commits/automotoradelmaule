@@ -1,6 +1,0 @@
-{
-  "name": "Automotriz Cauquenes",
-  "description": "Taller mecánico premium en Cauquenes, especializado en cambio de aceite, cambio de pastillas de freno, scanner computarizado y mantención preventiva.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
